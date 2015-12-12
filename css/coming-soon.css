@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+}
+
+.site-wrapper {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.cover-container {
+  margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  .cover-container {
+    width: 768px;
+  }
+}
