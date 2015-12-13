@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#getting-started').countdown('2016/01/01', function(e) {
-		$(this).html(e.strftime('%w weeks %d days %H:%M:%S'));
+		$(this).html(e.strftime('%D days %H hours %M minutes %S seconds'));
 	});
 
 	$('#mc-form').ajaxChimp({
