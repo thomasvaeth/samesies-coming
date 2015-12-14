@@ -14,7 +14,7 @@ I needed to make templates to add to a store for my final project at General Ass
 * ajaxChimp
 
 ### How to Make Changes
-* Change the calednar
+* Change the calendar
   - You need to change the date on line 2 in js/coming.js.
 * Add your MailChimp to the signup form
   - You need to replace URL in js/coming.js on line 7 with your URL. How do you get the URL? The way I do it is go to Lists, the list you want to use, and then signup form. There will be a list of general forms. Click Embedded Forms. On line 9 of the copy/paste field you will see something saying <form action="" and you want copy the link in those quotes.
