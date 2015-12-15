@@ -46,8 +46,8 @@ p {
 }
 
 .form-control,
-button {
-  border: 1px solid #FFFFFF !important;
+.btn {
+  border: 1px solid #FFFFFF;
   background-color: rgba(0, 0, 0, 0);
 }
 
@@ -57,6 +57,7 @@ button {
 .btn:hover,
 .btn:active:focus {
   color: #FFFFFF;
+  border-color: #FFFFFF;
   box-shadow: none;
   outline: none;
 }
