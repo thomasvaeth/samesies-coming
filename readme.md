@@ -24,3 +24,6 @@ I needed to make templates to add to a store for my final project at General Ass
   - The linear gradient is in css/main.css on line 8 and 9. A great website for gradient colors is [uiGradients](http://uigradients.com/). Just replace the hex values with the ones you want.
 * Change fonts
   - [Google Fonts](https://www.google.com/fonts) has fonts available to use for free. Google does a great job explaining how to add them to your website and you would just have to change the ones that are already in css/main.css.
+* Change title and favicon
+	- The title is in index.html on line 8. 
+	- Favicon is the picture that shows up on the tabs next to the title and is in index.html on line 9. There are favicon generator websites where you can drag in a regular picture and it turns it into a favicon. Just save it in images folder and direct it there.
